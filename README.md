@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinay3635
+- 👋 Hi, I’m @vinay
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ML
