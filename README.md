@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinay
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in web development. 
+- 🌱 I’m currently learning php web development.
+- 💞️ I’m looking to collaborate in web development.
 - 📫 How to reach me vinaychoudhary5041@gmail.com
 
 <!---
